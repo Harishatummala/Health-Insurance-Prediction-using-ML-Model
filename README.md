@@ -1,6 +1,10 @@
 Health Insurance Prediction -ML Project
 
-The majority of the countries finalize health insurance costs based on many factors such as age, number of people in families, etc. What should be the actual health insurance price for an individual or a family is an issue for many companies. Hence, one insurance company hired you as a data scientist to predict the health insurance cost for possible future customers. They have already collected samples required to perform all data analysis and machine learning tasks. Your task is to perform all data analysis steps and finally create a machine learning model which can predict the health insurance cost.
+
+Business Problem:
+
+The majority of the countries finalize health insurance costs based on many factors such as age, number of people in families, etc. What should be the actual health insurance price for an individual or a family is an issue for many companies. Hence, one insurance company hired you as a data scientist to predict the health insurance cost for possible future customers. They have already collected samples required to perform all data analysis and machine learning tasks. your task is to perform all data analysis steps and finally create a machine learning model which can predict the health insurance cost.
+
 Variables in the dataset:
 1.	age: age of the primary beneficiary
 2.	sex: insurance contractor gender, female, male
@@ -9,6 +13,8 @@ Variables in the dataset:
 6.	smoker: smoking or not
 7.	region: the beneficiary’s residential area in the US, northeast, southeast, southwest, northwest.
 8.	charges: individual medical costs billed by health insurance
+
+Analysis Details:
 
 Predicting health insurance costs accurately is important for several reasons. Firstly, it helps insurance companies to determine the premium that they should charge their customers. Secondly, it helps customers to make informed decisions about their health insurance plans. Thirdly, it helps policy makers to design policies that are more effective in providing affordable health care to the population
 
