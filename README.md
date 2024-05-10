@@ -1,3 +1,5 @@
+This is the mini Capstone Project done in my Data Science Bootcamp
+
 Health Insurance Prediction -ML Project
 
 
@@ -9,10 +11,10 @@ Variables in the dataset:
 1.	age: age of the primary beneficiary
 2.	sex: insurance contractor gender, female, male
 3.	bmi: Body Mass Index, providing an understanding of body weights that are relatively high or low relative to height, objective index of body weight (kg/m²) using the ratio of height to weight, ideally 18.5 to 24.9
-4.	5.	children: number of children covered by health insurance, number of dependents
-6.	smoker: smoking or not
-7.	region: the beneficiary’s residential area in the US, northeast, southeast, southwest, northwest.
-8.	charges: individual medical costs billed by health insurance
+4. children: number of children covered by health insurance, number of dependents
+5.	smoker: smoking or not
+6.	region: the beneficiary’s residential area in the US, northeast, southeast, southwest, northwest.
+7.	charges: individual medical costs billed by health insurance
 
 Analysis Details:
 
